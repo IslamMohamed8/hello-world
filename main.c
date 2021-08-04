@@ -9,3 +9,4 @@ while(1){
 }
 
 }
+//Islam
